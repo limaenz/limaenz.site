@@ -12,7 +12,8 @@ import {
 import { Button } from "@/components/ui/button";
 import { Moon, Sun, Code2, Menu } from "lucide-react";
 import { LuGithub, LuLinkedin } from "react-icons/lu";
-import profilePic from "@/app/assets/me.jpeg";
+
+const profilePic = "/me.jpeg";
 
 export function ResponsivePortfolio() {
   const [darkMode, setDarkMode] = useState(true);
