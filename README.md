@@ -20,7 +20,7 @@ Website pessoal desenvolvido para showcasar meus projetos, artigos e informaçõ
 ### Instalação
 ```bash
 # Clonar o repositório
-git clone https://github.com/limaenz/portfolio
+git clone https://github.com/limaenz/limaenz.site
 
 # Instalar dependências
 npm install
